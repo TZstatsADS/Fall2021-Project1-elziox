@@ -2,7 +2,7 @@
 ## Fall 2021
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/images report/philosophers.jpeg" width="500">
+<img src="figs/images report/philosophers.jpg" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
